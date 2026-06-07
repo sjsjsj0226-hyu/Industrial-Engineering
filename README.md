@@ -1,22 +1,22 @@
 # Industrial Engineering Study & Paper Reading
 
-## 소개
-이 프로젝트는 산업공학 공부와 논문 리딩을 체계적으로 정리하기 위한 학습 기록 저장소입니다.
+## Introduction
+This project is a study repository for organizing my learning materials in Industrial Engineering and paper reading.
 
-산업공학의 주요 개념, 수업 내용, 논문 요약, 코드 실습 자료 등을 정리하여 학습 내용을 누적하고, 향후 연구 및 프로젝트에 활용하는 것을 목적으로 합니다.
+The main purpose of this project is to record key concepts, lecture notes, paper summaries, code practices, and research ideas related to Industrial Engineering. By continuously organizing these materials, this repository can be used as a personal learning archive and portfolio.
 
-## 주요 기능
-- 산업공학 관련 개념 정리
-- 논문 리딩 내용 요약 및 정리
-- 수업 및 개인 학습 자료 관리
-- 데이터 분석 및 모델링 코드 기록
-- 연구 아이디어 및 프로젝트 진행 과정 정리
+## Main Features
+- Organizing key concepts in Industrial Engineering
+- Summarizing and reviewing academic papers
+- Managing lecture notes and study materials
+- Recording data analysis and modeling code
+- Documenting research ideas and project progress
 
-## 사용 방법
-1. 저장소를 다운로드하거나 클론합니다.
-2. 관심 있는 폴더 또는 파일을 확인합니다.
-3. 정리된 학습 내용, 논문 요약, 코드 파일을 참고합니다.
-4. 새로운 공부 내용이나 논문 리딩 내용을 지속적으로 추가합니다.
+## How to Use
+1. Download or clone this repository.
+2. Open the folders or files related to your area of interest.
+3. Read the study notes, paper summaries, or code files.
+4. Add new learning materials, paper reviews, or project updates regularly.
 
-## 라이선스
+## License
 MIT License
